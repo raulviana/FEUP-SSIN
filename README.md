@@ -14,7 +14,19 @@ Repository for the [*Segurança em Sistemas Informáticos*](https://sigarra.up.p
 Pyhton, Javascript, openssl, sqlite3
 
 
---- 
+## Scenario
+
+An organization intends to design and implement a system with a trusted server supplying services to client
+applications, used by their collaborators. The services are REST endpoints that can be called by the client applications. These services have an associated
+security level (an integer value). Also, collaborators can send messages to each other using the client application.
+The client applications should be mobile, but, for a proof of concept, they can run on a PC with a CLI (command line
+interface) or GUI (graphic user interface) interface.
+
+[Full Text](https://github.com/raulviana/FEUP-SSIN/raw/master/docs/Assign_Sec_2021.pdf)
+
+
+---
+
 
 ### Install
 
