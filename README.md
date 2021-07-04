@@ -9,6 +9,11 @@ Repository for the [*Segurança em Sistemas Informáticos*](https://sigarra.up.p
 - [Ana Rita Santos](https://github.com/artfs)
 - Raul Viana
 
+## Tools
+
+Pyhton, Javascript, openssl, sqlite3
+
+
 --- 
 
 ### Install
