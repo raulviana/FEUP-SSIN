@@ -20,9 +20,7 @@ An organization intends to design and implement a system with a trusted server s
 applications, used by their collaborators. The services are REST endpoints that can be called by the client applications. These services have an associated
 security level (an integer value). Also, collaborators can send messages to each other using the client application.
 The client applications should be mobile, but, for a proof of concept, they can run on a PC with a CLI (command line
-interface) or GUI (graphic user interface) interface.
-
-[Full Text](https://github.com/raulviana/FEUP-SSIN/blob/master/docs/Assign_Sec_2021.pdf)
+interface) or GUI (graphic user interface) interface...[(Full Text)](https://github.com/raulviana/FEUP-SSIN/blob/master/docs/Assign_Sec_2021.pdf)
 
 
 ---
