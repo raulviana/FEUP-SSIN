@@ -2,6 +2,15 @@
 
 Repository for the [*Segurança em Sistemas Informáticos*](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459501 "Course Page") course.
 
+## Group Elements
+
+- [Pedro Galvão](https://github.com/pedrogalvao)
+- [Eduardo Macedo](https://github.com/EduMacedo99)
+- [Ana Rita Santos](https://github.com/artfs)
+- Raul Viana
+
+--- 
+
 ### Install
 
     $ npm install
