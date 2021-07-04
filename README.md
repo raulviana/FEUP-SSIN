@@ -22,7 +22,7 @@ security level (an integer value). Also, collaborators can send messages to each
 The client applications should be mobile, but, for a proof of concept, they can run on a PC with a CLI (command line
 interface) or GUI (graphic user interface) interface.
 
-[Full Text](https://github.com/raulviana/FEUP-SSIN/raw/master/docs/Assign_Sec_2021.pdf)
+[Full Text](https://github.com/raulviana/FEUP-SSIN/blob/master/docs/Assign_Sec_2021.pdf)
 
 
 ---
