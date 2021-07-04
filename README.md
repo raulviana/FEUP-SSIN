@@ -1,5 +1,6 @@
 # FEUP-SSIN
 
+Repository for the [*Segurança em Sistemas Informáticos*](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459501 "Course Page") course.
 
 ### Install
 
