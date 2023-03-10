@@ -13,6 +13,11 @@ Repository for the [*Segurança em Sistemas Informáticos*](https://sigarra.up.p
 
 Pyhton, Javascript, openssl, sqlite3
 
+## Resources
+
+Learn Secure Programming through fun Games for [Python](https://play.secdim.com/game/python) and [Javascript](https://play.secdim.com/game/javascript).
+Find out more at [SecDim](https://secdim.com)
+
 
 ## Scenario
 
